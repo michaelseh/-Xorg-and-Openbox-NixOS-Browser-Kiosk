@@ -20,6 +20,6 @@ $ sudo nixos-rebuild switch
 ## Additional Notes
 - You can prevent the user from escaping the kiosk into Openbox WM, by using Firefox's __about:config__ settings.
   * Look up browser.tabs.closeWindowWithLastTab and set it to __false__
-  * Look up browser.quitShortcut.disabled to __true__
+  * Look up browser.quitShortcut.disabled and set it to __true__
 
 Many thanks to stigok's [blog post](https://blog.stigok.com/2020/06/20/nixos-xserver-openbox-auto-start-browser-application.html) which was the basis of this install!
