@@ -1,5 +1,6 @@
 # (Xorg and Openbox) NixOS-Browser-Kiosk
 (Xorg and Openbox) NixOS Browser Kiosk<br><br>
+![screenshot](Firefox-Kiosk-Example.png)
 
 ## Needs
 - Computer with NixOS installation
