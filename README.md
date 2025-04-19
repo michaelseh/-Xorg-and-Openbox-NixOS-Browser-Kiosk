@@ -1,5 +1,5 @@
-# {Xorg and Openbox} NixOS-Browser-Kiosk
-[Xorg and Openbox] NixOS Browser Kiosk<br><br>
+# (Xorg and Openbox) NixOS-Browser-Kiosk
+(Xorg and Openbox) NixOS Browser Kiosk<br><br>
 
 ## Needs
 - Computer with NixOS installation
