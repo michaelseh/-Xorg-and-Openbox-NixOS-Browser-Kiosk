@@ -19,7 +19,7 @@
 $ sudo nixos-rebuild switch
 
 ## Additional Notes
-- You can prevent the user from escaping the kiosk into Openbox, by using Firefox's about:config settings.
+- You can prevent the user from escaping the kiosk into Openbox WM, by using Firefox's about:config settings.
   * Look up browser.tabs.closeWindowWithLastTab and set it to __false__
   * Look up browser.quitShortcut.disabled to __true__
 
