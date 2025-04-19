@@ -1,6 +1,6 @@
 # -Xorg-and-Openbox-NixOS-Browser-Kiosk
-[Xorg and Openbox] NixOS Browser Kiosk<br>
-(https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+[Xorg and Openbox] NixOS Browser Kiosk<br><br>
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 ## Needs
 - Computer with NixOS installation
