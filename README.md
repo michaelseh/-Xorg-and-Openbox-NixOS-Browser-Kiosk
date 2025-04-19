@@ -1,6 +1,7 @@
 # -Xorg-and-Openbox-NixOS-Browser-Kiosk
 [Xorg and Openbox] NixOS Browser Kiosk<br><br>
-![Alt text](relative%20path/to/img.jpg?raw=true "Title")
+![screenshot](imageFolder/screenshot.png)
+
 ## Needs
 - Computer with NixOS installation
 - Firefox
