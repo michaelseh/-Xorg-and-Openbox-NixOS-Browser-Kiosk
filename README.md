@@ -1,6 +1,6 @@
 # -Xorg-and-Openbox-NixOS-Browser-Kiosk
 [Xorg and Openbox] NixOS Browser Kiosk<br><br>
-![screenshot](imageFolder/screenshot.png)
+![screenshot]([stripped-Screenshot 2025-04-18 at 18-17-17 DuckDuckGo - Protection. Privacy. Peace of mind.png](https://raw.githubusercontent.com/michaelseh/-Xorg-and-Openbox-NixOS-Browser-Kiosk/refs/heads/main/stripped-Screenshot%202025-04-18%20at%2018-17-17%20DuckDuckGo%20-%20Protection.%20Privacy.%20Peace%20of%20mind.png))
 
 ## Needs
 - Computer with NixOS installation
