@@ -1,5 +1,6 @@
 # -Xorg-and-Openbox-NixOS-Browser-Kiosk
 [Xorg and Openbox] NixOS Browser Kiosk
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 ## Needs
 - Computer with NixOS installation
@@ -17,7 +18,7 @@
 ## Rebuild
 $ sudo nixos-rebuild switch
 
-# Additional Notes
+## Additional Notes
 - You can prevent the user from escaping the kiosk into Openbox, by using Firefox's about:config settings.
   * Look up browser.tabs.closeWindowWithLastTab and set it to __false__
   * Look up browser.quitShortcut.disabled to __true__
