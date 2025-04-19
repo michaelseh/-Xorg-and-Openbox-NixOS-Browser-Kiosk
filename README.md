@@ -10,7 +10,7 @@
 ## How To
 - Save xorg.nix file to the following path __/etc/nixos__
 - Save hardware-configuration.nix to the following path __/etc/nixos__ (different depending on your system's hardware)
-- Save configuration.nix to the following path __/etc/nixos__ (w/ Nvidia Drivers)
+- Save configuration.nix to the following path __/etc/nixos__ (my config w/ Nvidia Drivers, you may not need)
 
 - Import the xorg and hardware configuration in __/etc/nixos/configuration.nix__
 
