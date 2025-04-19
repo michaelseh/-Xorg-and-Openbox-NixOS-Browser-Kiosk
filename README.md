@@ -1,4 +1,4 @@
-# (Xorg and Openbox) NixOS-Browser-Kiosk
+# (Xorg and Openbox) NixOS Browser Kiosk
 ![screenshot](Firefox-Kiosk-Example.png)
 
 ## Needs
