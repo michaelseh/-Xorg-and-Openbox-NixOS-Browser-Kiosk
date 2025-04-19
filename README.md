@@ -1,5 +1,5 @@
 # -Xorg-and-Openbox-NixOS-Browser-Kiosk
-[Xorg and Openbox] NixOS Browser Kiosk
+[Xorg and Openbox] NixOS Browser Kiosk<br>
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 ## Needs
